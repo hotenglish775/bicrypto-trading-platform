@@ -45,10 +45,8 @@ go to datbase ...table extensions…..coloumn status…. write 1 instead of 0
 # to activate sol ton tron
 go to public_html/backend/blockchains/ and create empty files sol.bin.ts ton.bin.ts tron.bin.ts
 go to database table ecosystem_blockchain changed status from 0 to 1
-https://imgur.com/a/dpQIUbq
-https://imgur.com/5CkWTI7
+
 if your extensions did not show add this file merge.mjs to folder scripts/merge.mjs
-https://github.com/oktopastrade/bicrypto-trading-platform/blob/main/merge.mjs
 
 2 go to folder public_html run pnpm updator wait until build is finished 
 error may happen to pnpm if your folder node_module have not permission of the user of the cmd
